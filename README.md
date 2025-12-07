@@ -13,6 +13,15 @@ A curated collection of piano videos, organized by difficulty level.
 - **Title:** *Kamin*  
   **Link:** https://www.youtube.com/watch?v=u0Dt3HTE2To&list=RDu0Dt3HTE2To&start_radio=1
 
+- **Title:** *Faded*  
+  **Link:** https://www.youtube.com/watch?v=iWbKrq-oEJo
+
+- **Title:** *Kamin*  
+  **Link:** https://www.youtube.com/watch?v=u0Dt3HTE2To&list=RDu0Dt3HTE2To&start_radio=1
+
+
+  
+
 - **Title:** *Una Mattina*
   **Link:** https://www.youtube.com/watch?v=Mb84HqYkwSk
 
