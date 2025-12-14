@@ -43,6 +43,9 @@ A curated collection of piano videos, organized by difficulty level.
 - **Title:** *Interstellar*  
   **Link:** https://www.youtube.com/watch?v=Ml9r4qpB2jE&list=RDMl9r4qpB2jE&start_radio=1
 
+- **Title:** *李香兰*  
+  **Link:** https://www.youtube.com/watch?v=4wV6vrRCMEw&list=RD4wV6vrRCMEw&start_radio=1
+
 ---
 
 ## 🎹 Hard
